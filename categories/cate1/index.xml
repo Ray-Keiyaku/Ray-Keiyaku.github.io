@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cate1 on KeiYAKus Blog</title>
+    <link>https://ray-keiyaku.github.io/categories/cate1/</link>
+    <description>Recent content in cate1 on KeiYAKus Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 08 May 2020 19:26:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://ray-keiyaku.github.io/categories/cate1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Newtest</title>
+      <link>https://ray-keiyaku.github.io/2020/newtest/</link>
+      <pubDate>Fri, 08 May 2020 19:26:36 +0800</pubDate>
+      
+      <guid>https://ray-keiyaku.github.io/2020/newtest/</guid>
+      <description>Just Test 测试中文 日本語テスト</description>
+    </item>
+    
+  </channel>
+</rss>
