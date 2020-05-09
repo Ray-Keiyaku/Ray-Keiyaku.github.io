@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Ray&#39;s Blog</title>
-    <link>https://ray-keiyaku.github.io/categories/</link>
-    <description>Recent content in Categories on Ray&#39;s Blog</description>
+    <title>Categories on QiYue&#39;s Blog</title>
+    <link>https://blog.qiyuex.top/categories/</link>
+    <description>Recent content in Categories on QiYue&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 08 May 2020 19:26:36 +0800</lastBuildDate>
     
-	<atom:link href="https://ray-keiyaku.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.qiyuex.top/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>cate1</title>
-      <link>https://ray-keiyaku.github.io/categories/cate1/</link>
+      <link>https://blog.qiyuex.top/categories/cate1/</link>
       <pubDate>Fri, 08 May 2020 19:26:36 +0800</pubDate>
       
-      <guid>https://ray-keiyaku.github.io/categories/cate1/</guid>
+      <guid>https://blog.qiyuex.top/categories/cate1/</guid>
       <description></description>
     </item>
     
