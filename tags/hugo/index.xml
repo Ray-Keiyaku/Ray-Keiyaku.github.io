@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on QiYue&#39;s Blog</title>
-    <link>https://blog.qiyuex.top/posts/</link>
-    <description>Recent content in Posts on QiYue&#39;s Blog</description>
+    <title>Hugo on QiYue&#39;s Blog</title>
+    <link>https://blog.qiyuex.top/tags/hugo/</link>
+    <description>Recent content in Hugo on QiYue&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 11 May 2020 00:52:15 +0800</lastBuildDate>
     
-	<atom:link href="https://blog.qiyuex.top/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.qiyuex.top/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

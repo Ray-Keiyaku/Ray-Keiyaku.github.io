@@ -6,17 +6,35 @@
     <description>Recent content in Tags on QiYue&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 08 May 2020 19:26:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 00:52:15 +0800</lastBuildDate>
     
 	<atom:link href="https://blog.qiyuex.top/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>test</title>
-      <link>https://blog.qiyuex.top/tags/test/</link>
-      <pubDate>Fri, 08 May 2020 19:26:36 +0800</pubDate>
+      <title>Hugo</title>
+      <link>https://blog.qiyuex.top/tags/hugo/</link>
+      <pubDate>Mon, 11 May 2020 00:52:15 +0800</pubDate>
       
-      <guid>https://blog.qiyuex.top/tags/test/</guid>
+      <guid>https://blog.qiyuex.top/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>博客</title>
+      <link>https://blog.qiyuex.top/tags/%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 11 May 2020 00:52:15 +0800</pubDate>
+      
+      <guid>https://blog.qiyuex.top/tags/%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日常</title>
+      <link>https://blog.qiyuex.top/tags/%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Mon, 11 May 2020 00:52:15 +0800</pubDate>
+      
+      <guid>https://blog.qiyuex.top/tags/%E6%97%A5%E5%B8%B8/</guid>
       <description></description>
     </item>
     
