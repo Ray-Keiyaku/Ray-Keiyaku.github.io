@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on QiYue&#39;s Blog</title>
-    <link>https://blog.qiyuex.top/posts/</link>
-    <description>Recent content in Posts on QiYue&#39;s Blog</description>
+    <title>软件开发 on QiYue&#39;s Blog</title>
+    <link>https://blog.qiyuex.top/categories/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/</link>
+    <description>Recent content in 软件开发 on QiYue&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 16 Jul 2020 17:53:22 +0800</lastBuildDate>
     
-	<atom:link href="https://blog.qiyuex.top/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.qiyuex.top/categories/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://blog.qiyuex.top/2020/python%E6%B1%82select%E9%9B%86/</guid>
       <description>刚刚整完编译原理的课设报告，突然想起来求Select的时候遇到的各种坑，想到当时网上各种资料的错误和不全面，然后又想到万年没更新过的博客，特</description>
-    </item>
-    
-    <item>
-      <title>前言</title>
-      <link>https://blog.qiyuex.top/2020/%E5%89%8D%E8%A8%80/</link>
-      <pubDate>Mon, 11 May 2020 00:52:15 +0800</pubDate>
-      
-      <guid>https://blog.qiyuex.top/2020/%E5%89%8D%E8%A8%80/</guid>
-      <description>2020属实开年不顺，（并没）有人可能发现本博客更换了主题，甚至连系统都换了。虽然理由可以是“Hugo性能好啊！”，“静态博客加载快！”，“</description>
     </item>
     
   </channel>
