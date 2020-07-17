@@ -13,7 +13,7 @@ tags: ["Hugo","博客"]
 
 首先需要先建一个新的分支把整个博客的源文件传上去，因为我是网页已经在master分支上挂着了不想折腾，所以又建立了source分支用于放置源文件（记得把源文件的分支设为default）。
 
- <img src="https://i.loli.net/2020/07/17/KPXEr1noR8DqwSv.png" alt="image-20200717141409566"  />
+<img src="https://i.loli.net/2020/07/17/KPXEr1noR8DqwSv.png">
 
 注：事实上可以用master分支放置源文件，而新建一个gh-page分支挂网页，这样可以减少一些不必要的操作~
 
@@ -21,9 +21,9 @@ tags: ["Hugo","博客"]
 
 1. 首先打开Actions页面，点击新建workflow。
 
-    <img src="https://i.loli.net/2020/07/17/9ZrvTxWMlX8pdQf.png" alt="image-20200717141746092" />
+    <img src="https://i.loli.net/2020/07/17/9ZrvTxWMlX8pdQf.png">
 
-    <img src="https://i.loli.net/2020/07/17/QGb4jmJesqyrXta.png" alt="image-20200717141913054" style="zoom:67%;" />
+    <img src="https://i.loli.net/2020/07/17/QGb4jmJesqyrXta.png">
 
 2. 之后我们使用现成的项目:
 
@@ -39,11 +39,11 @@ tags: ["Hugo","博客"]
 
     例如我这里：
 
-    <img src="https://i.loli.net/2020/07/17/bIZhDCUzBGKqcay.png" alt="image-20200717143101658"  />
+    <img src="https://i.loli.net/2020/07/17/bIZhDCUzBGKqcay.png">
 
 4. Commit到源码分支即可
 
-   <img src="https://i.loli.net/2020/07/17/LbaptGHQTyNrc5P.png" alt="image-20200717143259673"  />
+   <img src="https://i.loli.net/2020/07/17/LbaptGHQTyNrc5P.png">
 
 ## 使用
 
