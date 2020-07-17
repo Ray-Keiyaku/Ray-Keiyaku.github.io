@@ -43,7 +43,7 @@ tags: ["Hugo","博客"]
 
 4. Commit到源码分支即可
 
-   <img src="C:\Users\zrztt\AppData\Roaming\Typora\typora-user-images\image-20200717143259673.png" alt="image-20200717143259673"  />
+   <img src="https://i.loli.net/2020/07/17/LbaptGHQTyNrc5P.png" alt="image-20200717143259673"  />
 
 ## 使用
 
