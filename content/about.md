@@ -25,7 +25,7 @@ authour: "Ray"
 
   ​	studying at Northeastern University, Shenyang, China.
 
-- 现居于中国新疆乌鲁木齐。
+- 现居于中国新疆乌鲁木齐市。
 
   ​	living in Urumqi, Xinjiang, China.
 
